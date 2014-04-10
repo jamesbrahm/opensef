@@ -1,0 +1,5 @@
+def score(parts):
+	category = parts[0]
+	vulnerability = parts[1]
+	state=parts[2]
+	points=[3]

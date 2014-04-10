@@ -1,0 +1,15 @@
+# Format:
+# module:argument:value
+#user:bad:badmin
+#test:test:test
+#file:bad
+
+user badmin removed 5
+password root present 3
+package vsftpd removed 2
+crontab nc removed 5
+ssh rootlogin removed 5
+file /var/www/cmd.php removed 10
+permissions /var/www/config.php 007 5
+
+

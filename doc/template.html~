@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>
+	OpenSEF
+	</title>
+</head>
+
+<body>
+<h3> Scoring Report </h3>
+
+<p> Internet Connection: 
+PINGRESULT
+</p>
+
+<p> Time since engine start: 
+TIMEELAPSED 
+</p>
+<p> 
+CORRECT
+ out of 
+TOTAL
+vulnerabilities scored. </p>
+<p>
+SCOREDATA
+</p>
+
+
+</body>
